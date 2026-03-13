@@ -209,6 +209,19 @@ routes
 ```
 
 ---
+# System Architecture Diagram
+
+* news_feed_system_architecture.drawio
+
+## How to use it
+
+* Open diagrams.net (draw.io).
+
+* Click File → Import From → Device.
+
+* Upload the downloaded .drawio file.
+
+---
 
 # API Endpoints
 
@@ -378,15 +391,6 @@ Used for fetching news articles.
 
 OpenAI API
 Used for generating article summaries.
-
----
-
-# Future Enhancements
-
-* Advanced recommendation algorithms
-* Topic classification using NLP
-* Vector embeddings for semantic search
-* User behavior analytics
 
 ---
 
